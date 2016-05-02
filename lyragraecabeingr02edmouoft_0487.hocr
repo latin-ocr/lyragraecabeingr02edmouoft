@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lyragraecabeingr02edmouoft_0487.png"; bbox 0 0 1562 2536; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 506 84 1093 279">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 506 48 1093 279">
+     <span class='ocr_line' id='line_1_1' title="bbox 506 84 1093 279; baseline 0.044 -75"><span class='ocrx_word' id='word_1_1' title='bbox 506 84 1093 279; x_wconf 43' lang='lat' dir='ltr'>u111112111fflfflu51111011ffl112112311fflfflmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 246 982 1309 1133">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 246 982 1309 1133">
+     <span class='ocr_line' id='line_1_2' title="bbox 414 982 1142 1031; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 414 982 600 1030; x_wconf 70' lang='lat' dir='ltr'>PLEASE</span> <span class='ocrx_word' id='word_1_3' title='bbox 634 983 720 1031; x_wconf 86' lang='lat' dir='ltr'>Do</span> <span class='ocrx_word' id='word_1_4' title='bbox 754 983 877 1031; x_wconf 88' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 912 983 1142 1030; x_wconf 68' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 246 1084 1309 1133; baseline -0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 246 1084 429 1132; x_wconf 75' lang='lat' dir='ltr'>CARDS</span> <span class='ocrx_word' id='word_1_7' title='bbox 461 1084 542 1133; x_wconf 67' lang='grc' dir='ltr'>ΟΒ</span> <span class='ocrx_word' id='word_1_8' title='bbox 578 1084 715 1131; x_wconf 82' lang='grc' dir='ltr'>51.ΙΡ5</span> <span class='ocrx_word' id='word_1_9' title='bbox 752 1085 911 1132; x_wconf 71' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_10' title='bbox 943 1085 1059 1132; x_wconf 75' lang='lat' dir='ltr'>Tffls</span> <span class='ocrx_word' id='word_1_11' title='bbox 1094 1084 1309 1132; x_wconf 78' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 286 1277 1267 1326">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 286 1277 1267 1326">
+     <span class='ocr_line' id='line_1_4' title="bbox 286 1277 1267 1326; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 286 1277 595 1325; x_wconf 66' lang='grc' dir='ltr'><strong>υΝΝΕΙῖδΙΤΥ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 626 1277 704 1326; x_wconf 76' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_14' title='bbox 737 1277 1021 1325; x_wconf 81' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_15' title='bbox 1057 1278 1267 1325; x_wconf 71' lang='lat' dir='ltr'>MBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 55 1522 1260 2492">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 55 1522 1260 2492">
+     <span class='ocr_line' id='line_1_5' title="bbox 55 1522 1260 2492; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 55 1522 1260 2492; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
